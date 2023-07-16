@@ -7,7 +7,9 @@
 
 n = 700
 m = 750
-d = m//n
+# d = m//n
 # print((m//n)+(d%2!=0))
 
-print(-(-m//n))
+# print(-(-m//n))
+
+
